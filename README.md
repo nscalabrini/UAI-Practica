@@ -1,0 +1,2 @@
+# UAI-Practica
+NETCORE
